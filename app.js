@@ -53,7 +53,7 @@ climate.onclick=()=>{
     save.innerHTML="Do your bit! Save trees, use renewable energy sources and prefer to travel green"
 
     // button color
-    climate.style.background="red"
+    climate.style.background="#367EF0"
     consumption.style.background="transparent"
     resources.style.background="transparent"
     people.style.background="transparent"
@@ -71,7 +71,7 @@ resources.onclick=()=>{
     save.innerHTML="Do your bit! Avoid all things plastic. Believe in Reduce, Reuse and Recycle"
 
     // button color
-    resources.style.background="blue"
+    resources.style.background="#DF903D"
     climate.style.background="transparent"
     people.style.background="transparent"
     consumption.style.background="transparent"
@@ -89,7 +89,7 @@ people.onclick=()=>{
     save.innerHTML="Do your bit! Never waste  food.Rather offer it to people or animals who are in need."
 
     // button color
-    people.style.background="orange"
+    people.style.background="#D84855"
     climate.style.background="transparent"
     consumption.style.background="transparent"
     resources.style.background="transparent"
