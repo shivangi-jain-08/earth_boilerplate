@@ -24,7 +24,7 @@ var frame = document.getElementById("frame")
 
 
 consumption.onclick=()=>{
-    // backgraound
+    // background
     bodyvar.style.background="url('https://kq-storage.s3.ap-south-1.amazonaws.com/Github/earth/food-wastage-bg%5B1%5D.png')"
     bodyvar.style.backgroundSize= "100% 100%"
 
@@ -42,7 +42,7 @@ consumption.onclick=()=>{
 }
 
 climate.onclick=()=>{
-    // backgraound
+    // background
     bodyvar.style.background="url('https://kq-storage.s3.ap-south-1.amazonaws.com/Github/earth/climate-change-bg%5B1%5D.png')"
     bodyvar.style.backgroundSize= "100% 100%"
 
@@ -60,7 +60,7 @@ climate.onclick=()=>{
 }
 
 resources.onclick=()=>{
-    // backgraound
+    // background
     bodyvar.style.background="url('https://kq-storage.s3.ap-south-1.amazonaws.com/Github/earth/natural-resources-bg%5B1%5D.png')"
     bodyvar.style.backgroundSize= "100% 100%"
 
@@ -78,7 +78,7 @@ resources.onclick=()=>{
 }
 
 people.onclick=()=>{
-    // backgraound
+    // background
     bodyvar.style.background="url('https://kq-storage.s3.ap-south-1.amazonaws.com/Github/earth/poverty-bg%5B1%5D.png')"
     bodyvar.style.backgroundSize= "100% 100%"
 
