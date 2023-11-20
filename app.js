@@ -20,7 +20,7 @@ var save = document.getElementById("save")
 // iframe
 var frame = document.getElementById("frame")
 
-// Variable declaration is done------------------
+// variable declaration is done------------------
 
 
 consumption.onclick=()=>{
